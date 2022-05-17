@@ -4,8 +4,7 @@ Beroende på vilken webbläsare du använder, kan den försöka hindra dig från
 Detta beror på att varken webbläsaren eller Windows vet om programmet är skadligt, då få personer har laddat ner det.
 
 ## Microsoft Edge
-Efter nedladdning dyker det upp en varningsruta. Klicka på de tre prickarna och sedan "Behåll". Klicka på "Visa mer" och slutligen "Behåll ändå".
-Om så är fallet, klicka på "Mer info" och sedan "Kör ändå". Se nedan.
+Efter nedladdning dyker det upp en varningsruta. Klicka på de tre prickarna och sedan "Behåll". Klicka på "Visa mer" och slutligen "Behåll ändå". Se nedan.
 
 ![1-2](https://user-images.githubusercontent.com/90912016/167441715-0e73c9fb-e050-4e20-a758-98e8df538334.png)
 
