@@ -14,6 +14,13 @@ Efter nedladdning dyker det upp en varningsruta. Klicka på de tre prickarna och
 
 ![4-2](https://user-images.githubusercontent.com/90912016/167441311-cdfcca4b-5ea6-4339-a9a6-acc67f9b190e.png)
 
+## Google Chrome
+Chrome har ungefär samma varning som Edge. Klicka på pilen och sedan "Behåll". Se nedan.
+
+![1](https://user-images.githubusercontent.com/90912016/170245635-6d00d90b-0f17-4e52-8e09-fcb10ca4e0b0.png)
+
+![2](https://user-images.githubusercontent.com/90912016/170245648-5e8b40e7-e306-48b2-80cd-2790b6a7f518.png)
+
 ## Microsoft Defender SmartScreen
 SmartScreen-filtret kan komma att försöka hindra dig från att starta programmet. Om så är fallet, klicka på "Mer info" och sedan "Kör ändå". Se nedan.
 
