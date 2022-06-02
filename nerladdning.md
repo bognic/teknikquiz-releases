@@ -29,3 +29,7 @@ SmartScreen-filtret kan komma att försöka hindra dig från att starta programm
 <img width="400" alt="2" src="https://user-images.githubusercontent.com/90912016/167441982-e2fd980f-8306-443e-97d1-efd8284a7c6c.png">
 
 Detta gäller bara första gången du startar programmet. Uppdateringar av programmet kan få denna varning att visa sig igen, men då följer du ovanstående steg igen.
+
+Följande ruta kan också dyka upp. Kryssa då för båda rutorna.
+
+![3](https://user-images.githubusercontent.com/90912016/171603163-3838a2eb-62bb-47d9-a78c-956276321cbe.png)
