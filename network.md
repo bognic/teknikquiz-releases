@@ -12,3 +12,23 @@ Om LAN fortfarande inte fungerar, kan det bero på Windows Defender-brandväggen
 ![1](https://user-images.githubusercontent.com/90912016/189974279-8b1e08ca-810b-490d-8619-b1a4cece568e.png)
 
 ![2](https://user-images.githubusercontent.com/90912016/189974294-a7b35033-98fb-4e07-afd4-ca9d93bf5068.png)
+
+## Hitta server
+Programmet kan hitta en server på samma nätverk med UDP. För att detta ska fungera, kan du behöva ändra en inställning i Windows Defender-brandväggen, ifall ingen server dyker upp automatiskt. Öppna "Windows Defender-brandväggen med avancerad säkerhet" genom att t.ex. skriva "brandvägg" i aktitivetsfältets sökfält.
+
+![1](https://user-images.githubusercontent.com/90912016/198990408-e3546c7e-c048-4069-b582-9952e5804438.png)
+
+Klicka sedan på "Regler för inkommande trafik" och "Ny regel".
+
+![2](https://user-images.githubusercontent.com/90912016/198990511-2b7836a2-822c-48fd-bb34-265eac8a8b6b.png)
+
+Välj "Port" och gå vidare.
+
+![3](https://user-images.githubusercontent.com/90912016/198990614-67709d16-8a10-4733-96ce-4d938a21a7cc.png)
+
+Välj "UDP" och skriv ```2057``` i textrutan. Klicka vidare tills du ser "Namn". Skriv ett valfritt namn, t.ex. ```Teknikquiz```. Slutför och stäng ner programmet.
+
+![4](https://user-images.githubusercontent.com/90912016/198990706-6a9285eb-6ee3-4926-8264-fc64ee823951.png)
+
+![5](https://user-images.githubusercontent.com/90912016/198990875-5d6d62e7-3524-40b3-811c-98d9fd7723ab.png)
+
