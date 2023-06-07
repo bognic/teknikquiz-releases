@@ -9,3 +9,12 @@ Gå till Inställningar, "Nätverk och Internet", "Egenskaper" och scrolla ner t
 ![2](https://user-images.githubusercontent.com/90912016/171414309-d8b509e5-2068-466d-9cbe-c7f42587d4d5.png)
 
 ![3](https://user-images.githubusercontent.com/90912016/171414594-84de5410-d64b-4785-97c5-734d6e23dead.png)
+
+## Windows 11
+Du kan följa i princip samma procedur som för Windows 10 enligt nedan.
+
+![1](https://github.com/bognic/teknikquiz-releases/assets/90912016/9b22b713-5b86-4427-ad01-7bde4b88f84b)
+
+![2](https://github.com/bognic/teknikquiz-releases/assets/90912016/14b575fb-f8c9-437b-8ae3-24b0bdb15f0f)
+
+Scrolla ner tills du hittar IPv4-adressen.
